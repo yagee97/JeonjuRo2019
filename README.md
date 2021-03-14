@@ -1,4 +1,4 @@
-# JeonjuRo2019
+# JeonjuRo2020
 
 https://play.google.com/store/apps/details?id=org.androidtown.jeonjuro2019
 
@@ -11,4 +11,4 @@ parsing하는 정보나 로그인한 개인정보는 암호화되어 공개되�
 1) 곽수빈
 2) 이예지
 3) 임효진
-4) 최혜연Dd
+4) 최혜연
